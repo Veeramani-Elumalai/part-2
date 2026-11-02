@@ -1,0 +1,9 @@
+[submodule "courseinfo"]
+	path = courseinfo
+	url = https://github.com/Veeramani-Elumalai/courseinfo
+[submodule "phonebook"]
+	path = phonebook
+	url = https://github.com/Veeramani-Elumalai/phonebook
+[submodule "dataforcountries"]
+	path = dataforcountries
+	url = https://github.com/Veeramani-Elumalai/dataforcountries
